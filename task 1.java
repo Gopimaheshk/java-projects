@@ -19,7 +19,8 @@ public static void main(String[] args){
 Scanner s=new Scanner(System.in);
 System.out.println("Enter the temperature in Fahrenheit :");
 float f=s.nextFloat();
-float c=(c*9/5)+32;
+float x=(f-32)*5;
+float c=x/9;
 System.out.println("The temperature in Celsius is :"+c);
 }
 }
