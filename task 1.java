@@ -11,7 +11,7 @@ System.out.println("The temperature in Fahrenheit is :"+f);
 }
 }
 
-/*convert celcius to fahrenheit*/
+/*convert fahrenheit to Celsius*/
 import java.util.Scanner;
 public class FahrenheitToC
 {
